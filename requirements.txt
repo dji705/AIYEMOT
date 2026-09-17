@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+httpx
+pydub
+SpeechRecognition
+python-multipart
+playwright==1.47.0
